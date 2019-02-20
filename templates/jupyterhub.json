@@ -679,7 +679,7 @@
                         "uri": "https://github.com/anand-ocp/jupyter-notebooks.git",
                         "ref": "1.0.0"
                     },
-                    "contextDir": "minimal-notebook"
+                    "contextDir": "scipy-notebook"
                 },
                 "strategy": {
                     "type": "Source",
