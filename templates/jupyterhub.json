@@ -22,7 +22,7 @@
         },
         {
             "name": "NOTEBOOK_REPOSITORY_URL",
-            "value": "https://github.com/anand-ocp/PythonDataScienceHandbook",
+            "value": "https://github.com/anand-ocp/ml-notes",
             "required": true
         },
         {
