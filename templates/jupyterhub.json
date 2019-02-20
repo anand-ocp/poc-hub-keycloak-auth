@@ -677,7 +677,7 @@
                     "type": "Git",
                     "git": {
                         "uri": "https://github.com/anand-ocp/jupyter-notebooks.git",
-                        "ref": "1.0.0"
+                        "ref": "master"
                     },
                     "contextDir": "scipy-notebook"
                 },
